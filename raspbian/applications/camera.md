@@ -80,7 +80,7 @@ In video mode only, turn on video stabilisation.
 ```
 	--ev,	-ev		Set EV compensation
 ```
-Set the EV compensation of the image. Range is -10 to +10, default is 0.
+Set the EV compensation of the image. Range is -24 to +24, default is 0.
 
 ```
 	--exposure,	-ex		Set exposure mode 
